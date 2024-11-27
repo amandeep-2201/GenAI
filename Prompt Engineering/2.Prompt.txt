@@ -1,6 +1,0 @@
-"I am a teacher and I have made these notes for my students. These are not properly formatted. Use your creativity and format the notes in such a way that they are easy to read and understand. I just want to copy paste your response in my word file and won't make any further changes so do the job perfectly. Try to keep the content same."
-
-So I gave this prompt to chat gpt and got my notes formatted instead of doing it manually and wasting my time in captalizing, bolding, etc.
-
-The updated notes are in the file "1. Prompt Engineering"
-and the raw notes are in the file "3. Raw Notes"
