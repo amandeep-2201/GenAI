@@ -1,0 +1,29 @@
+<html>
+    {# either you can style here in <style></style> tag or in external css file #}
+    <link rel="stylesheet" href="{{url_for('static',filename='css/style.css')}}">
+    
+    {# either you can type js here in <script></script> tag or in external js file #}
+    <script type="text/javascript" src="{{url_for('static',filename='script/script.js')}}">
+    </script>
+    <body>
+        <div class="form-container">
+
+        <h2>HTML Forms</h2>
+
+        <form action="/submit" method = 'post'>
+            <label for="Science">Science:</label><br>
+            <input type="text" id="science" name="science" value="0"><br>
+            <label for="Maths">Maths:</label><br>
+            <input type="text" id="maths" name="maths" value="0"><br>
+            <label for="C">C:</label><br>
+            <input type="text" id="c" name="c" value="0"><br>
+            <label for="DataScience">Data Science:</label><br>
+            <input type="text" id="datascience" name="datascience" value="0"><br>
+            <input type="submit" value = "Submit">
+        </form>
+
+        <p>If you click the "Submit" button, the form-data will be sent to a page called "/submit".</p>
+        <div>
+
+    </body>
+</html>
