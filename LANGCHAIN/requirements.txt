@@ -1,0 +1,32 @@
+langchain_openai
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu   #type of database
+groq
+cassio
+beautifulsoup4
+langchain-groq
+wikipedia
+arxiv
+langchainhub
+sentence_transformers
+#ragstack-ai database
+langchain-objectbox
+langchain
+langchain-google-genai
+PyPDF2
+google-cloud-aiplatform>=1.38
+pinecone-client
+pinecone-text
+pinecone-notebooks
+langchain-huggingface
+transformers

@@ -1,0 +1,10 @@
+for creating environment :python -m venv venv
+then activate the environment by coping path of active file in script folder
+
+run program python app.py
+streamlit run app.py
+
+pip install -r requirements.txt
+
+pip install ipykernal for  jupyter notebook
+
